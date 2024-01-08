@@ -8,3 +8,5 @@ My findings show that restaurants with a value of under $20 have a higher coupon
 The coupon distribution is much more prevalent among those who are unemployed.  More experimental details must be gathered to understand the cause of the occupation disparity.
 
 To allow for easier access, plot visuals were saved into an images folder.  This required the installation of the Kaleido package via a terminal command.
+
+https://github.com/BotanicalAmy/Coupon_Analysis/blob/main/prompt.ipynb
